@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Abdul Wasay! <br><br>I am an Information Technology Student @ York University<br><br>I am interested in software development, specifically in software testing (manual/automation testing).<br><br>I always love building and creating new projects, check them out! <br>[ I just created this Github account, so stay tuned for upcoming projects :) ]
+Hi, my name is Abdul Wasay! <br><br>I am interested in software development, specifically in software testing (manual/automation testing).<br><br>I always love building and creating new projects, check them out! <br>
 
 
 ## 🌐 Socials:
