@@ -7,9 +7,9 @@
 
 ### 🎯 My Hobbies & Interests
 
-- 🎹 Playing the piano and learning different pieces
-- 🃏 Collecting Pokémon cards and going to card shows
-- 🍽️ Eating out and trying different restaurants
+- 🎹 Playing the piano and learning different pieces!
+- 🃏 Collecting Pokémon cards and going to card shows!
+- 🍽️ Eating out and trying different restaurants!
 - ⚽ Playing casual soccer with friends!
 
 ---
