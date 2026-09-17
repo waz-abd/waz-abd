@@ -3,7 +3,7 @@
 ### Masters in Business Analytics and AI @ OTU 🎓<br>
 ### Software QA Specialist Intern @ SOTI 💼 <br>
 
-## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-wasay-8ab29a274/) 
+## 🌐 Socials: [![LinkedIn](https://www.linkedin.com/in/waz-abd/)]
 
 ### 🎯 My Hobbies & Interests
 
